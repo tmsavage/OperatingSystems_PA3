@@ -1,0 +1,33 @@
+Number of requester threads is 1 
+Number of resolver threads is 1 
+Thread 140675523118848 serviced 6 files
+./multi-lookup: total time is 64.606038 
+
+Number of requester threads is 1 
+Number of resolver threads is 3 
+Thread 140469778130688 serviced 6 files
+./multi-lookup: total time is 33.494092 
+
+Number of requester threads is 3 
+Number of resolver threads is 1 
+Thread 140428042835712 serviced 1 files
+Thread 140428026050304 serviced 3 files
+Thread 140428034443008 serviced 2 files
+./multi-lookup: total time is 59.137184 
+
+
+Number of requester threads is 3 
+Number of resolver threads is 3 
+Thread 139914184406784 serviced 1 files
+Thread 139914192799488 serviced 3 files
+Thread 139914176014080 serviced 2 files
+./multi-lookup: total time is 36.221292 
+
+Number of requester threads is 5 
+Number of resolver threads is 5 
+Thread 139699203704576 serviced 2 files
+Thread 139699212097280 serviced 1 files
+Thread 139699228882688 serviced 1 files
+Thread 139699237275392 serviced 1 files
+Thread 139699220489984 serviced 1 files
+./multi-lookup: total time is 28.494367 
